@@ -3,3 +3,4 @@ Drinks
 Drinks
 fizzy drinks
 booze
+alcohol
